@@ -16,7 +16,7 @@ I am a cybersecurity student based in Luxembourg with an extensive background in
 
 - 🎓 **Education:** BTS Cybersecurity at Lycée Guillaume Kroll (LGK)
 - 🛡️ **Focus Areas:** Penetration Testing, Computer Forensics, Network Security & Architecture
-- 🐧 **Systems & Tools:** Linux Environments, Self-Hosting, Automation, Modern Web Development[cite: 1]
+- 🐧 **Systems & Tools:** Linux Environments, Self-Hosting, Automation, Modern Web Development
 
 ---
 
