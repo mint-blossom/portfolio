@@ -1,6 +1,6 @@
 # Portfolio — Luca Wolter
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Site-58a6ff?style=flat-square&logo=github)](https://mint-blossom.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Site-58a6ff?style=flat-square&logo=github)](https://portfolio.minty.lu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mintblossom/)
 [![Email](https://img.shields.io/badge/Email-Contact-3fb950?style=flat-square&logo=gmail)](mailto:linkedin@minty.lu)
 
