@@ -6,7 +6,7 @@
 
 This repository contains the source code for my personal portfolio website, hosted directly via **GitHub Pages**.
 
-🔗 **Live Website:** [mint-blossom.github.io](https://portfolio.minty.lu)
+🔗 **Live Website:** [portfolio.minty.lu](https://portfolio.minty.lu)
 
 ---
 
